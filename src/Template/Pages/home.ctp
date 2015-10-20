@@ -259,7 +259,7 @@
          */
         gapi.analytics.auth.authorize({
             container: 'embed-api-auth-container',
-            clientid: '540608952534-uu2dmf9gq2ftv3ctir7k8gvjltfm42va.apps.googleusercontent.com',
+            clientid: 'user id',
         });
 
 
